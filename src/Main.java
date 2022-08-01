@@ -19,6 +19,7 @@ public class Main {
         double volume = 7 * 1000;
         double minLose = 250;
         double maxLose = 500;
+
         minLose = 250 ;
         maxLose = 500;
         double averageLose = (minLose + maxLose) / 2;
